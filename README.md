@@ -2,6 +2,7 @@ Hello, I'm Adrian
 
 <a href="https://www.linkedin.com/in/adrian-agulto-49286027a/"><img src="https://img.shields.io/badge/LinkedIn-blue" /></a>
 
+
 [Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
@@ -31,7 +32,12 @@ Endpoint
 SIEM
   
 Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<img src="https://img.shields.io/badge/-A+-red?logo=comptia"/> 
+<img src="https://img.shields.io/badge/-Security+-red?logo=comptia"/> 
+<img src="https://img.shields.io/badge/-Network+-red?logo=comptia"/> 
+<img src="https://img.shields.io/badge/-CySA+-red?logo=comptia"/> 
+<img src="https://img.shields.io/badge/-Pentest+-red?logo=comptia"/> 
+
 
     
 Projects
