@@ -37,8 +37,8 @@ Certifications
 <img src="https://img.shields.io/badge/-Network+-red?logo=comptia"/> 
 <img src="https://img.shields.io/badge/-CySA+-red?logo=comptia"/> 
 <img src="https://img.shields.io/badge/-Pentest+-red?logo=comptia"/> 
-add ITIL v4
 <img src="https://img.shields.io/badge/-SSCP-darkgreen?logo=isc2"/>
+<img src="https://img.shields.io/badge/-ITIL v4-darkred?logo=axelos"/>
 
 
 
