@@ -6,8 +6,7 @@ Hello, I'm Adrian
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I am a class of 2024 alumni of Western Governors University with a Bachelor's of Cybersecurity and Information Assurance. I have a strong passion and interest for cybersecurity. 
 Objective
 [Provide Objective - Remove this afterwards]]
 
@@ -15,14 +14,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 Skills
 
+NEED TO DO THESE STILL
 
-Skill	Associated Project
+\\\\\\\Skill	Associated Project
 SIEM Implementation and Log Analysis	Detection Lab
 Network Traffic Monitoring and Attack Detection	Detection Lab
 Security Automation with Shuffle SOAR	SOC Automation Lab
 Incident Response Planning and Execution	SOC Automation Lab
 Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
+Scripting and Automation for Threat Mitigation	SOC Automation Lab /////
 
 Tools
 
