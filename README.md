@@ -1,6 +1,7 @@
 Hello, I'm Adrian
 
-<a href="https://www.linkedin.com/in/adrian-agulto-49286027a/"><img src="https://img.shields.io/badge/LinkedIn-blue" /></a>
+<a href="https://www.linkedin.com/in/adrian-agulto-49286027a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+
 
 
 [Brief Introduction - Remove this afterwards]
@@ -26,11 +27,18 @@ Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 Network
-  
+  <img src="https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Snort-red?logo=snort&logoColor=white"/>
+  <img src=" "/>
 Endpoint
- 
+<img src=" "/>
+<img src=" "/>
+<img src=" "/>
+<img src=" "/>
 SIEM
-  
+<img src="https://img.shields.io/badge/-Splunk-black?logo=splunk"/>
+<img src="https://img.shields.io/badge/-ELK_Stack-005571?logo=elastic&logoColor=white"/>
+<img src=" "/>
 Certifications
 <img src="https://img.shields.io/badge/-A+-red?logo=comptia"/> 
 <img src="https://img.shields.io/badge/-Security+-red?logo=comptia"/> 
@@ -40,8 +48,10 @@ Certifications
 <img src="https://img.shields.io/badge/-SSCP-darkgreen?logo=isc2"/>
 <img src="https://img.shields.io/badge/-ITIL v4-darkred?logo=axelos"/>
 
-
-
+Cyber Threat Intelligence
+<img src="https://img.shields.io/badge/-ATT&CK Matrix-blue?logo=MITRE"/>
+<img src="
+<img src=" "/>
 
     
 Projects
