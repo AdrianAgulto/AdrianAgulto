@@ -17,7 +17,7 @@ Skills
 NEED TO DO THESE STILL
 
 \\\\\\\Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab
+SIEM Implementation and Log Analysis	Detection Lab <a href=https://github.com/AdrianAgulto/Splunk-Lab>Splunk Lab</a>
 Network Traffic Monitoring and Attack Detection	Detection Lab
 Security Automation with Shuffle SOAR	SOC Automation Lab
 Incident Response Planning and Execution	SOC Automation Lab
