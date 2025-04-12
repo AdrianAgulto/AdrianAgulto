@@ -1,16 +1,15 @@
-Hello, I'm Adrian
+Hello, 
+
+My name is Adrian Agulto
 
 <a href="https://www.linkedin.com/in/adrian-agulto-49286027a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 
 
+I am a recent alumni of Western Governors University with a Bachelor's of Cybersecurity and Information Assurance. I have a strong passion and interest for Cybersecurity and all things . 
 
-[Brief Introduction - Remove this afterwards]
-
-I am a class of 2024 alumni of Western Governors University with a Bachelor's of Cybersecurity and Information Assurance. I have a strong passion and interest for cybersecurity. 
 Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
 
 Skills
 
@@ -31,7 +30,7 @@ Network:
   <img src="https://img.shields.io/badge/-Snort-red?logo=snort&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Zeek-blue?"/>
 
-Endpoint:
+EDR:
 <img src="https://img.shields.io/badge/-Wazuh-lightblue"/>
 <img src="https://img.shields.io/badge/-Event Viewer-blue?logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Velociraptor-Green?"/>
