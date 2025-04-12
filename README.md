@@ -7,7 +7,7 @@ My name is Adrian Agulto
 
 I am a recent alumni of Western Governors University with a Bachelor's of Cybersecurity and Information Assurance. I have a strong passion and interest for Cybersecurity and all things . 
 
-Objective
+
 
 
 
@@ -50,7 +50,7 @@ Cyber Threat Intelligence:
 <img src=" "/>
 
 Windows Tools:
-<img src=" "/>
+<img src="![Active Directory](https://img.shields.io/badge/Active--Directory-Enabled-blue?logo=microsoft&style=flat-square)"/>
 <img src=" "/>
 <img src=" "/>
 <img src=" "/>
