@@ -80,4 +80,4 @@ AWS,AZURE
 ## Projects
 - <a href=https://github.com/AdrianAgulto/Splunk-Lab>Splunk Lab</a>
 - <a href=https://github.com/AdrianAgulto/Honeypot>Honeypot</a>
-- <a href=https://github.com/AdrianAgulto/Splunk-Lab>Ransomeware</a>
+- <a href=https://github.com/AdrianAgulto/Splunk-Lab>Ransomware</a>
