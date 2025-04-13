@@ -52,7 +52,7 @@ Cyber Threat Intelligence:
 Windows Tools:
 <img src="https://img.shields.io/badge/Windows-%20-0078D6?logo=windows&logoColor=white&labelColor=0078D6&style=flat-square" />
 <img src="https://img.shields.io/badge/Windows-%20-transparent?logo=windows&logoColor=0078D6&style=flat-square" />
-
+<img src=[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) />
 
 
 
