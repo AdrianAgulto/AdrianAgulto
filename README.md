@@ -71,7 +71,7 @@ Cloud Platforms:
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
 
-<h2>Certifications:</h2>
+<h1>Certifications:</h1>
 <img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-green"/>
 <img src="https://img.shields.io/badge/-A+-red?logo=comptia"/> 
 <img src="https://img.shields.io/badge/-Security+-red?logo=comptia"/> 
