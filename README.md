@@ -26,9 +26,9 @@ Scripting and Automation for Threat Mitigation	SOC Automation Lab /////
 Tools
 
 Network:
-  <img src="https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Snort-red?logo=snort&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Zeek-blue?"/>
+<img src="https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Snort-red?logo=snort&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Zeek-blue?"/>
 
 EDR:
 <img src="https://img.shields.io/badge/-Wazuh-lightblue"/>
@@ -60,9 +60,6 @@ Other:
 <img src="https://img.shields.io/badge/-ANY.RUN-blue?logo=MITRE"/>
 <img src="https://img.shields.io/badge/-Cuckoo-blue?logo=MITRE "/>
 
-Projects
-Detection Lab
-SOC Automation Project
 
 Certifications:
 <img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-green"/>
@@ -74,7 +71,9 @@ Certifications:
 <img src="https://img.shields.io/badge/-SSCP-darkgreen?logo=isc2"/>
 <img src="https://img.shields.io/badge/-ITIL v4-darkred?logo=axelos"/>
 
-AWS,AZURE
+Cloud Platforms:
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
 ## Projects
 - <a href=https://github.com/AdrianAgulto/Splunk-Lab>Splunk Lab</a>
