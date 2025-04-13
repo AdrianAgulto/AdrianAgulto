@@ -32,10 +32,7 @@ Network:
 
 EDR:
 <img src="https://img.shields.io/badge/-Wazuh-lightblue"/>
-<img src="https://img.shields.io/badge/-Event Viewer-blue?logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Velociraptor-Green?"/>
-<img src="https://img.shields.io/badge/-Sysmon-blue?logo=windows&logoColor=white"/>
-
 
 SIEM:
 <img src="https://img.shields.io/badge/-Splunk-black?logo=splunk"/>
