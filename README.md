@@ -50,7 +50,7 @@ Cyber Threat Intelligence:
 <img src=" "/>
 
 Windows Tools:
-<img src="![Active Directory](https://img.shields.io/badge/Active--Directory-Enabled-blue?logo=microsoft&style=flat-square)"/>
+<img src="https://img.shields.io/badge/Active--Directory-Enabled-blue?logo=microsoft&style=flat-square"/>
 <img src=" "/>
 <img src=" "/>
 <img src=" "/>
