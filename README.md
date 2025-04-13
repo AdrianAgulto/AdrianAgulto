@@ -50,7 +50,7 @@ Cyber Threat Intelligence:
 <img src=" "/>
 
 Windows Tools:
-<img src="https://img.shields.io/badge/Windows-Compatible-blue?logo=windows&logoColor=white&style=flat"/>
+<img src="(https://img.shields.io/badge/Windows-Supported-blue?logo=windows&logoColor=white&style=flat-square"/>
 <img src=" "/>
 <img src=" "/>
 <img src=" "/>
