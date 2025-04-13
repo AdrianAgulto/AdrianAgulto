@@ -37,7 +37,6 @@ EDR:
 SIEM:
 <img src="https://img.shields.io/badge/-Splunk-black?logo=splunk"/>
 <img src="https://img.shields.io/badge/-ELK_Stack-005571?logo=elastic&logoColor=white"/>
-<img src=" "/>
 
 
 Cyber Threat Intelligence:
@@ -50,6 +49,14 @@ Windows Tools:
 [![Windows](https://custom-icon-badges.demolab.com/badge/Active%20Directory-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Sysinternals%20Suite-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Regedit-0078D6?logo=windows11&logoColor=white)](#)
+
+Operating Systems:
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
 Other:
 <img src="https://img.shields.io/badge/-Phishtool-blue?logo=MITRE"/>
