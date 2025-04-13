@@ -45,6 +45,7 @@ Cyber Threat Intelligence:
 
 
 Windows Tools:
+[![Windows](https://custom-icon-badges.demolab.com/badge/Microsoft%20365-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Event%20Viewer-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Active%20Directory-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Sysinternals%20Suite-0078D6?logo=windows11&logoColor=white)](#)
@@ -57,6 +58,12 @@ Operating Systems:
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+
+Language:
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 Other:
 <img src="https://img.shields.io/badge/-Phishtool-blue?logo=MITRE"/>
@@ -77,6 +84,7 @@ Certifications:
 Cloud Platforms:
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+
 
 ## Projects
 - <a href=https://github.com/AdrianAgulto/Splunk-Lab>Splunk Lab</a>
