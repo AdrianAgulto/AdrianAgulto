@@ -23,7 +23,7 @@ Incident Response Planning and Execution	SOC Automation Lab
 Case Management with TheHive	SOC Automation Lab
 Scripting and Automation for Threat Mitigation	SOC Automation Lab /////
 
-Tools
+<h2>Tools</h2>  
 
 Network:
 <img src="https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white"/>
@@ -40,11 +40,10 @@ SIEM:
 <img src=" "/>
 
 
-
 Cyber Threat Intelligence:
 <img src="https://img.shields.io/badge/-ATT&CK Matrix-blue?logo=MITRE"/>
 <img src="https://img.shields.io/badge/-OpenCTI-lightblue?logo=MITRE "/>
-<img src=" "/>
+
 
 Windows Tools:
 [![Windows](https://custom-icon-badges.demolab.com/badge/Event%20Viewer-0078D6?logo=windows11&logoColor=white)](#)
