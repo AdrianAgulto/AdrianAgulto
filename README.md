@@ -50,10 +50,9 @@ Cyber Threat Intelligence:
 <img src=" "/>
 
 Windows Tools:
-<img src="https://img.shields.io/badge/Windows-%20-0078D6?logo=windows&logoColor=white&labelColor=0078D6&style=flat-square" />
-<img src="https://img.shields.io/badge/Windows-%20-transparent?logo=windows&logoColor=0078D6&style=flat-square" />
+[![Windows](https://custom-icon-badges.demolab.com/badge/Event%20Viewer-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Active%20Directory-0078D6?logo=windows11&logoColor=white)](#)
-
+[![Windows](https://custom-icon-badges.demolab.com/badge/Sysmon-0078D6?logo=windows11&logoColor=white)](#)
 
 
 Other:
