@@ -59,13 +59,13 @@ Operating Systems:
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
-Language:
+Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
-Other:
+Other Security Tools:
 <img src="https://img.shields.io/badge/-Phishtool-blue?logo=MITRE"/>
 <img src="https://img.shields.io/badge/-ANY.RUN-blue?logo=MITRE"/>
 <img src="https://img.shields.io/badge/-Cuckoo-blue?logo=MITRE "/>
