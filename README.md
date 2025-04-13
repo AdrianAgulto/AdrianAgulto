@@ -52,8 +52,8 @@ Cyber Threat Intelligence:
 Windows Tools:
 [![Windows](https://custom-icon-badges.demolab.com/badge/Event%20Viewer-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Active%20Directory-0078D6?logo=windows11&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Sysmon-0078D6?logo=windows11&logoColor=white)](#)
-
+[![Windows](https://custom-icon-badges.demolab.com/badge/Sysinternals%20Suite-0078D6?logo=windows11&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Regedit-0078D6?logo=windows11&logoColor=white)](#)
 
 Other:
 <img src="https://img.shields.io/badge/-Phishtool-blue?logo=MITRE"/>
