@@ -53,7 +53,7 @@ Windows Tools:
 <img src="https://img.shields.io/badge/Windows-Supported-blue?logo=windows&logoColor=white&style=flat-square"/>
 <img src="https://img.shields.io/badge/Windows-Supported-blue?logo=windows&logoColor=white&style=flat-square "/>
 <img src="![Windows](https://img.shields.io/badge/Windows-Supported-blue?logo=windows&logoColor=white&style=flat-square) "/>
-<img src="![Windows](https://img.shields.io/badge/Windows-Compatible-blue?logo=windows&style=for-the-badge)"/>
+<img src="![Splunk](https://img.shields.io/badge/Splunk-Enabled-black?logo=splunk&logoColor=white&style=flat-square)"/>
 
 Other:
 <img src="https://img.shields.io/badge/-Phishtool-blue?logo=MITRE"/>
