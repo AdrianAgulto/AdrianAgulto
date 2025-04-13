@@ -13,7 +13,7 @@ This page displays some of the skills I have possessed over the years, please do
 
 Skills
 
--
+- In depth understanding of Windows and Linux (filesystem hiearchy, system settings, navigating the desktop environment, system services) 
 -
 -
 -
