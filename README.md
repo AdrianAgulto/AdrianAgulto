@@ -28,7 +28,7 @@ Tools
 Network:
 <img src="https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Snort-red?logo=snort&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Zeek-blue?"/>
+<img src="https://img.shields.io/badge/-Zeek-blue?logo=zeek&logoColor=white"/>
 
 EDR:
 <img src="https://img.shields.io/badge/-Wazuh-lightblue"/>
