@@ -70,8 +70,7 @@ Cloud Platforms:
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
-
-<h1>Certifications:</h1>
+<h2>Certifications:</h2>
 <img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-green"/>
 <img src="https://img.shields.io/badge/-A+-red?logo=comptia"/> 
 <img src="https://img.shields.io/badge/-Security+-red?logo=comptia"/> 
@@ -80,8 +79,6 @@ Cloud Platforms:
 <img src="https://img.shields.io/badge/-Pentest+-red?logo=comptia"/> 
 <img src="https://img.shields.io/badge/-SSCP-darkgreen?logo=isc2"/>
 <img src="https://img.shields.io/badge/-ITIL v4-darkred?logo=axelos"/>
-
-
 
 ## Projects
 - <a href=https://github.com/AdrianAgulto/Splunk-Lab>Splunk Lab</a>
