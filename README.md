@@ -16,12 +16,11 @@ Skills
 NEED TO DO THESE STILL
 
 \\\\\\\Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab <a href=https://github.com/AdrianAgulto/Splunk-Lab>Splunk Lab</a>
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab /////
+-
+-
+-
+-
+-
 
 <h2>Tools</h2>  
 
@@ -44,7 +43,7 @@ Cyber Threat Intelligence:
 <img src="https://img.shields.io/badge/-OpenCTI-lightblue?logo=MITRE "/>
 
 
-Windows Tools:
+Windows:
 [![Windows](https://custom-icon-badges.demolab.com/badge/Microsoft%20365-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Event%20Viewer-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Active%20Directory-0078D6?logo=windows11&logoColor=white)](#)
@@ -70,8 +69,12 @@ Other Security Tools:
 <img src="https://img.shields.io/badge/-ANY.RUN-blue?logo=MITRE"/>
 <img src="https://img.shields.io/badge/-Cuckoo-blue?logo=MITRE "/>
 
+Cloud Platforms:
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
-Certifications:
+
+<h2>Certifications:</h2>
 <img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-green"/>
 <img src="https://img.shields.io/badge/-A+-red?logo=comptia"/> 
 <img src="https://img.shields.io/badge/-Security+-red?logo=comptia"/> 
@@ -81,9 +84,6 @@ Certifications:
 <img src="https://img.shields.io/badge/-SSCP-darkgreen?logo=isc2"/>
 <img src="https://img.shields.io/badge/-ITIL v4-darkred?logo=axelos"/>
 
-Cloud Platforms:
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
 
 ## Projects
