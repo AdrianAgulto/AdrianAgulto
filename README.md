@@ -55,6 +55,7 @@ Windows Tools:
 <img src="![Windows](https://img.shields.io/badge/Windows-Supported-blue?logo=windows&logoColor=white&style=flat-square) "/>
 <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft-737373?logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/--%20-0078D6?logo=windows&logoColor=white&labelColor=0078D6&style=flat-square" />
 
 
 
