@@ -8,7 +8,7 @@ I am a recent alumni of Western Governors University with a Bachelor's of Cybers
 
 I will be enrolled in a M.S Cybersecurity and Information Assurance for the Summer of 2025 and would be honored to help a company utilize my skills as an intern with the opporunity to convert to a full time employee or extend my tenure to a minimum of 6 months.
 
-This page displays some of the skills I have possessed over the years, please don't forget to check my projects that I have documented on the very bottom of this page.
+This page displays some of the skills I have possessed over the years, please don't forget to check my projects that I have documented located at the bottom of this page.
 
 
 Skills
@@ -60,6 +60,7 @@ Languages:
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+<img src="https://img.shields.io/badge/-SPL-black?logo=splunk"/>
 
 Other Security Tools:
 <img src="https://img.shields.io/badge/-Phishtool-blue?logo=MITRE"/>
