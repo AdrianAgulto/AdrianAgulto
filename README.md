@@ -67,6 +67,7 @@ Other Security Tools:
 <img src="https://img.shields.io/badge/-Phishtool-blue?logo=MITRE"/>
 <img src="https://img.shields.io/badge/-ANY.RUN-blue?logo=MITRE"/>
 <img src="https://img.shields.io/badge/-Cuckoo-blue?logo=MITRE "/>
+<img src="https://img.shields.io/badge/-Nessus-blue?logo=MITRE "/>
 
 Cloud Platforms:
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
