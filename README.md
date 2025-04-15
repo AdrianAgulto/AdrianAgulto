@@ -8,15 +8,7 @@ I am a recent alumni of Western Governors University with a Bachelor's of Cybers
 
 I will be enrolled in a M.S Cybersecurity and Information Assurance for the Summer of 2025 and would be honored to help a company utilize my skills as an intern.
 
-Below are the skills I have learned along the way, my projects that I have created are located at the bottom of this page.
-
-Skills
-
-- In depth understanding of Windows and Linux (filesystem hiearchy, system settings, navigating the desktop environment, system services) 
--
--
--
--
+ My projects that I have created are located at the bottom of this page.
 
 <h2>Tools</h2>  
 
