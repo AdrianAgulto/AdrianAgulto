@@ -6,9 +6,9 @@ My name is Adrian Agulto
 
 I am a recent alumni of Western Governors University with a Bachelor's of Cybersecurity and Information Assurance. I have a strong passion and interest for Cybersecurity, Networking, and all things IT!
 
-I will be enrolled in a M.S Cybersecurity and Information Assurance for the Summer of 2025 and would be honored to help a company utilize my skills as an intern.
+I will be enrolled in an M.S. in Cybersecurity and Information Assurance for the Summer of 2025 and would be honored to help a company utilize my skills as an intern.
 
- My projects that I have created are located at the bottom of this page.
+My projects that I have created are located at the bottom of this page.
 
 <h2>Tools</h2>  
 
